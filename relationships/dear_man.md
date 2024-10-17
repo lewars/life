@@ -7,7 +7,7 @@ This acronym is designed to help individuals communicate their needs in a clear,
 - **D**escribe: Clearly describe the situation, sticking to the facts without judgment.
 - **E**xpress: Express your feelings and thoughts about the situation.
 - **A**ssert: Assert your needs or what you want to happen.
-- **R**inforce: Reinforce the positive outcomes of your request.
+- **R**einforce: Reinforce the positive outcomes of your request.
 - **M**indful: Stay mindful and focused on your goal during the conversation.
 - **A**ppear confident: Project confidence through your body language and tone.
 - **N**egotiate: Be willing to negotiate and find a compromise if necessary.
