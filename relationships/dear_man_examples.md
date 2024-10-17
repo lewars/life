@@ -26,7 +26,7 @@ Here are three examples of how to use the DEAR MAN technique in different scenar
 
 **A** *ssert*: "I would appreciate it if you could let me know in advance if you need to cancel so we can make other arrangements."
 
-**R** *inforce*: "Clear communication will help us maintain a strong friendship and avoid misunderstandings."
+**R** *einforce*: "Clear communication will help us maintain a strong friendship and avoid misunderstandings."
 
 **M** *indful*: Stay focused on the specific behavior and how it affected you, not past issues.
 
@@ -42,7 +42,7 @@ Here are three examples of how to use the DEAR MAN technique in different scenar
 
 **A** *ssert*: "I would like us to focus on positive interactions and avoid criticizing each other's choices."
 
-**R** *inforce*: "Respecting each other's decisions will make our visits more enjoyable and strengthen our relationship."
+**R** *einforce*: "Respecting each other's decisions will make our visits more enjoyable and strengthen our relationship."
 
 **M** *indful*: Stay focused on the specific behaviors you want to change, not past conflicts.
 
