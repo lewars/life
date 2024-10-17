@@ -10,7 +10,7 @@ Here are three examples of how to use the DEAR MAN technique in different scenar
 
 **A** *ssert*: "I would like to discuss a raise that reflects my increased responsibilities and the value I bring to the team."
 
-**R** *inforce*: "I believe a raise will not only motivate me further but also demonstrate the company's commitment to rewarding hard work."
+**R** *einforce*: "I believe a raise will not only motivate me further but also demonstrate the company's commitment to rewarding hard work."
 
 **M** *indful*: Stay focused on your goal of getting a fair raise without getting sidetracked by other issues.
 
